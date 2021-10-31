@@ -1,2 +1,3 @@
 Learning DevOps is important as it helps to increase efficiency.
 Devops shorten production cycles.
+Learning Devops increases your deployment success rate.
