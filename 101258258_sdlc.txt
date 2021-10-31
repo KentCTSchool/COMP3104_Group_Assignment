@@ -11,3 +11,5 @@ Collaboration between business requirements management and engineering teams is 
 Software rework is costing you time and budget
 Operational metrics are unpredictable
 With these challenges in mind, leveraging the DevOps phases is about much more than creating a system; it is a team-organization structure and a working philosophy for thinking and acting; a new cultural norm. If you view DevOps as creating a modern software factory for your technology teams to deliver extraordinary products to your customers, we hope you will quickly see how this context starts to pull every element together.
+
+reference: https://sdlcpartners.com/insights/effective-sdlc-the-lifeblood-of-a-modern-organization/
