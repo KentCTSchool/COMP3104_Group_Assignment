@@ -1,0 +1,15 @@
+As described by Amazon Web Services, “DevOps is the combination of cultural philosophies, practices, and tools that increase an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.”
+
+We have seen the value of using the best of Lean and Agile in a DevOps approach, which helps streamline software development while it addresses many of the typical problems faced by teams:
+
+Lofty list of improvements that just stew on the back-burner
+Speed-to-market is far too slow
+Output quality isn’t meeting customer expectations
+Standards aren’t clear and execution patterns and practices are inconsistent
+Software development teams are mired in poor communication and their efforts are trapped in silos
+Collaboration between business requirements management and engineering teams is weak
+Software rework is costing you time and budget
+Operational metrics are unpredictable
+With these challenges in mind, leveraging the DevOps phases is about much more than creating a system; it is a team-organization structure and a working philosophy for thinking and acting; a new cultural norm. If you view DevOps as creating a modern software factory for your technology teams to deliver extraordinary products to your customers, we hope you will quickly see how this context starts to pull every element together.
+
+reference: https://sdlcpartners.com/insights/effective-sdlc-the-lifeblood-of-a-modern-organization/
